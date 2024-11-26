@@ -36,6 +36,7 @@ a {
     border: 5px outset #1cffa0;
     border-radius: 50%;
     transition-duration: .3s;
+    margin: auto;
 }
 
 a:hover {
