@@ -10,6 +10,7 @@ h1{
     text-decoration: underline;
     padding: 25px;
     margin: auto;
+    border-bottom: 100px;
 }
 
 h2{
@@ -18,7 +19,7 @@ h2{
     text-decoration: underline;
     padding: 10px;
     border: 1px solid #000
-    border-radius: 4px;
+    border-radius: 50%px;
     margin: auto;
 }
 
@@ -36,7 +37,7 @@ a {
     border: 5px outset #1cffa0;
     border-radius: 50%;
     transition-duration: .3s;
-    margin: auto;
+    margin: 100px;
 }
 
 a:hover {
