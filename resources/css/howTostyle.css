@@ -10,7 +10,7 @@ h1{
     text-decoration: underline;
     padding: 25px;
     margin: auto;
-    border-bottom: 100px;
+    border: 100px;
 }
 
 h2{
@@ -43,4 +43,14 @@ a {
 a:hover {
     background-color: #eeff00;
     border: 5px outset #ff0000e1;
+}
+
+ol li {
+    list-style-type: decimal;
+    padding: 5px;
+}
+
+ul li {
+    list-style-type: square;
+    padding: 5px;
 }
