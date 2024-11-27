@@ -54,3 +54,14 @@ ul li {
     list-style-type: square;
     padding: 5px;
 }
+
+body {
+    width: 90%;
+}
+
+.image-container {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    height: auto;
+}
