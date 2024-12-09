@@ -56,7 +56,8 @@ ul li {
 }
 
 body {
-    width: 90%;
+    width: 90%
+    linear-gradient(right to orange, pink);
 }
 
 .image-container {
@@ -64,4 +65,5 @@ body {
     text-align: center;
     width: 50%;
     height: auto;
+    opacity: .6;
 }
