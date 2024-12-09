@@ -57,7 +57,7 @@ ul li {
 
 body {
     width: 90%
-    linear-gradient(right to orange, pink);
+    linear-gradient(to right, orange, pink);
 }
 
 .image-container {
