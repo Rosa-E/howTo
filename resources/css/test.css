@@ -1,0 +1,20 @@
+video {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.container img {
+    width: 100%;
+    height: auto;
+    z-index: 5;
+}
+
+.sample {
+    margin: 0 Srem Srem Srem;
+    text-align: center;
+    display: block;
+    z-index: 5;
+}
